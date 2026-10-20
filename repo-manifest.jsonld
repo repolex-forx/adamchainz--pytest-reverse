@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/adamchainz/pytest-reverse/commit/84670881ea453eda1be40e475a93663ce3f05faf",
       "git:hexsha": "84670881ea453eda1be40e475a93663ce3f05faf",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/adamchainz/pytest-reverse/commit/fdd099456f6fd4ad300121532c90c9934ea6c8a8",
